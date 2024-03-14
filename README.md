@@ -1,6 +1,4 @@
-# Title of Module 
-Contextualizing Numerology's Pertinence to Personal Identity Construction in Singapore (NHS3901)
-
+# Contextualizing Numerology's Pertinence to Personal Identity Construction in Singapore (NHS3901)
 ## Overview
 
 As part of my Independent Study Module (ISM) in my Honours programme with an academic component, University Scholars Programme (USP), I chose to do a project on Numerology, particularly on Pythagorean Numerology as I was familiar with it. Born out of a conversation with my friend Dhameem who was skeptical when I said that I learnt numerology and it is quite accurate, I tested it on him and he was suprised that it was quite true. He suggested me to test it out on USP people and do it as my ISM, under my favourite Professor, Dr Mustafa Izzudin. Also awareness is low in Singapore so it would be interesting to explore its potential benefits in Singapore.
